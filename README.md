@@ -6,7 +6,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ```sh
 # Navigate to the project folder
-cd reacteasy2
+cd React-Vite-API
 
 # Start the development server
 npm run dev
